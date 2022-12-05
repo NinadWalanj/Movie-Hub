@@ -18,16 +18,9 @@ Run project with command
 npm run dev
 ```
 
-<h2> Built with  </h2>
-<ul>
-  <li>FrontEnd: <b> HTML/CSS, React JS </b></li>
-  <li>Backend:  <b> Node JS </b> </li>
-</ul>
-
 <h2> Features </h2>
 <ul>
   <li> Sign In / Sign Up / Sign Out the user. </li>
   <li> Bookmark the favourite movies </li>
   <li> Filter movies by genre and rating.</li>
 </ul>
-
